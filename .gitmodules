@@ -1,0 +1,3 @@
+[submodule "jRIDER"]
+	path = jRIDER
+	url = git@github.com:filiprd/jRIDER.git
